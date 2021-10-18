@@ -31,3 +31,5 @@ public:
 	// Hàm chia phân số
 	void chia(phanSo ps1, phanSo ps2);
 };
+
+// phuoc
